@@ -19,7 +19,7 @@ School management app using Java in VSC <br />
 5. Under `Java Version`, select the previously downloaded JDK
 6. Navigate back to the project and go to `Main.java`
 7. Press F5 to run the project
-8. Upon running the project, you will be prompted for a password(password is password123)
+8. Upon running the project, you will be prompted for a password(password is `password123`)
 
 
 ### Time frame:
